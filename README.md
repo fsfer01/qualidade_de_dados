@@ -5,18 +5,19 @@ Repositório com alguns exemplos e casos de uso para o assunto de qualidade de d
 > Quero reforçar que para cada situação, pode existir parâmetros e situações diferentes do comum. Então, antes de implantar em produção, sugiro que teste, altere e se possível, deixe sugestões aqui.
 
 ## TÓPICOS ABAIXO
-Abaixo, segue todos os tópicos.
-[Dropwizard](http://www.dropwizard.io/1.0.2/docs/)
+Abaixo, segue os tópicos e alguns exemplos ⬇️
 
 <details>
 
 <summary>MONITORAMENTOS</summary>
-Segue abaixo alguns exemplos úteis ⬇️
 
-**LINK DO REPOSITÓRIO**: [**MONITORAMENTOS**](https://github.com/fsfer01/qualidade_de_dados/tree/main/monitoramento)
 * A
 * B
 * C
+
+Para mais exemplos, segue abaixo o link do repositório ⬇️
+
+**LINK DO REPOSITÓRIO**: [**MONITORAMENTOS**](https://github.com/fsfer01/qualidade_de_dados/tree/main/monitoramento)
 </details>
 
 <details>
