@@ -6,11 +6,14 @@ Repositório com alguns exemplos e casos de uso para o assunto de qualidade de d
 
 ## TÓPICOS ABAIXO
 Abaixo, segue todos os tópicos.
+[Dropwizard](http://www.dropwizard.io/1.0.2/docs/)
 
 <details>
 
 <summary>MONITORAMENTOS</summary>
+Segue abaixo alguns exemplos úteis ⬇️
 
+**LINK DO REPOSITÓRIO**: [**MONITORAMENTOS**](https://github.com/fsfer01/qualidade_de_dados/tree/main/monitoramento)
 * A
 * B
 * C
