@@ -1,4 +1,4 @@
-#  QUALIDADE DE DADOS✔️🎲📈
+#  QUALIDADE DE DADOS✔️❌🎲
 Repositório com alguns exemplos e casos de uso para o assunto de qualidade de dados, monitoramento e observabilidade.
 
 > [!WARNING]
