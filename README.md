@@ -11,9 +11,9 @@ Abaixo, segue os tópicos e alguns exemplos ⬇️
 
 <summary>MONITORAMENTOS</summary>
 
-* A
+* [expectativa_indicadores - Média Simples](https://github.com/fsfer01/qualidade_de_dados/tree/main/monitoramento/expectativa_indicadores)
 * B
-* C
+  
 
 Para mais exemplos, segue abaixo o link do repositório ⬇️
 
