@@ -1,0 +1,30 @@
+colunas:
+  coluna_a:
+    limite_min: 0.87
+    limite_max: 1.13
+    media_dia_semana: true
+
+  coluna_b:
+    limite_min: 0.87
+    limite_max: 1.13
+    media_dia_semana: true
+
+  coluna_c:
+    limite_min: 0.87
+    limite_max: 1.13
+    media_dia_semana: false
+
+  coluna_d:
+    limite_min: 0.87
+    limite_max: 1.13
+    media_dia_semana: false
+
+  coluna_e:
+    limite_min: 0.87
+    limite_max: 1.13
+    media_dia_semana: false
+
+  coluna_f:
+    limite_min: 0.87
+    limite_max: 1.13
+    media_dia_semana: false
