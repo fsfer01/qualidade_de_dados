@@ -18,9 +18,8 @@ Abaixo, segue todos os tópicos.
 
 <summary>MONITORAMENTOS</summary>
 
-* A
-* B
-* C
+* [expectativa_indicadores - Média Simples](https://github.com/fsfer01/qualidade_de_dados/tree/main/monitoramento/expectativa_indicadores)
+
 </details>
 
 
