@@ -1,6 +1,12 @@
 ## **Informações Gerais**
 Esse exemplo de projeto de monitoramento de expectativa de indicadores tem como objetivo fazer de forma automática algumas validações que são feitas manualmente por usuários. Com isso, caso seja encontrado um comportamento fora do comúm, é gerado uma mensagem que pode ser enviada.
 
+
+
+https://github.com/user-attachments/assets/c128ccea-4568-474a-b75b-278e1137cd6f
+
+
+
 ## **Objetivo:**
 O principal objetivo é **identificar antecipadamente qualquer comportamento fora do padrão**, e com isso, realizarmos uma análise e caso tenha um erro, abrirmos um HELP ou comunicação para o time responsável.
 ![image](https://github.com/fsfer01/qualidade_de_dados/assets/78058494/1a694a7e-63f2-4625-8fa9-8ca2adba4ad8)
